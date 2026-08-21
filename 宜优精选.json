@@ -2329,7 +2329,7 @@
     },
     {
       "key": "MiFun",
-      "name": "🦋 [动漫]MiFun动漫.py",
+      "name": "🦋 动漫MiFun动漫.py",
       "type": 3,
       "api": "https://lytvs.top/py/MiFundongman.py",
       "ext": "",
@@ -2337,7 +2337,7 @@
     },
     {
       "key": "动漫巴士",
-      "name": "🦋 [动漫]动漫巴士.py",
+      "name": "🦋 动漫动漫巴士.py",
       "type": 3,
       "api": "https://lytvs.top/py/dongmanbashi.py",
       "ext": "",
@@ -2345,7 +2345,7 @@
     },
     {
       "key": "青空次元",
-      "name": "🦋 [动漫]青空次元.py",
+      "name": "🦋 动漫青空次元.py",
       "type": 3,
       "api": "https://lytvs.top/py/qingkongciyuan.py",
       "ext": "",
@@ -2353,7 +2353,7 @@
     },
     {
       "key": "共和国动漫",
-      "name": "🦋 [动漫]共和国动漫.py(关梯)",
+      "name": "🦋 动漫共和国动漫.py(关梯)",
       "type": 3,
       "api": "https://lytvs.top/py/gongheguodongman.py",
       "ext": "",
@@ -4885,7 +4885,7 @@
     },
     {
       "key": "综合设置",
-      "name": "⚙️综合[配置]",
+      "name": "⚙️综合配置",
       "type": 3,
       "api": "csp_PanSettings",
       "searchable": 0,
@@ -4927,7 +4927,7 @@
     },
     {
       "key": "ResMgr",
-      "name": "📦资源[配置]",
+      "name": "📦资源配置",
       "type": 3,
       "api": "csp_ResMgr",
       "searchable": 0,
@@ -4943,7 +4943,7 @@
     },
     {
       "key": "BinMarket",
-      "name": "🛠️环境[配置]",
+      "name": "🛠️环境配置",
       "type": 3,
       "api": "csp_BinMarket",
       "searchable": 0,
@@ -5910,7 +5910,7 @@
     },
     {
       "key": "初心音乐",
-      "name": "💕初心[音乐]",
+      "name": "💕初心音乐",
       "type": 3,
       "api": "csp_ChuXin",
       "searchable": 1,
@@ -5925,7 +5925,7 @@
     },
     {
       "key": "爱听音乐",
-      "name": "🎧爱听[音乐]",
+      "name": "🎧爱听音乐",
       "type": 3,
       "api": "csp_AiTingMusic",
       "searchable": 1,
@@ -5940,7 +5940,7 @@
     },
     {
       "key": "酷酷",
-      "name": "🎵酷酷[音乐]",
+      "name": "🎵酷酷音乐",
       "type": 3,
       "api": "csp_KuKuMusic",
       "searchable": 1,
@@ -5955,7 +5955,7 @@
     },
     {
       "key": "呦呦DJ",
-      "name": "🎤呦呦[音乐]",
+      "name": "🎤呦呦音乐",
       "type": 3,
       "api": "csp_Djuu",
       "style": {
@@ -5966,7 +5966,7 @@
     },
     {
       "key": "轮回DJ",
-      "name": "🎤轮回[音乐]",
+      "name": "🎤轮回音乐",
       "type": 3,
       "api": "csp_Djlh",
       "style": {
@@ -5977,7 +5977,7 @@
     },
     {
       "key": "酷狗音乐",
-      "name": "🐶酷狗[音乐]",
+      "name": "🐶酷狗音乐",
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 1,
@@ -5992,7 +5992,7 @@
     },
     {
       "key": "酷我音乐",
-      "name": "🎵酷我[音乐]",
+      "name": "🎵酷我音乐",
       "type": 3,
       "api": "csp_KuWo",
       "searchable": 1,
@@ -6007,7 +6007,7 @@
     },
     {
       "key": "蜻蜓FM",
-      "name": "📡蜻蜓[广播]",
+      "name": "📡蜻蜓广播",
       "type": 3,
       "api": "csp_QingtingFM",
       "style": {
@@ -6018,7 +6018,7 @@
     },
     {
       "key": "凤凰FM",
-      "name": "📢凤凰[广播]",
+      "name": "📢凤凰广播",
       "type": 3,
       "api": "csp_FenghuangFM",
       "searchable": 1,
@@ -6031,7 +6031,7 @@
     },
     {
       "key": "广播迷",
-      "name": "📢广播迷[广播]",
+      "name": "📢广播迷广播",
       "type": 3,
       "api": "csp_Guangbomi",
       "searchable": 1,
@@ -6044,7 +6044,7 @@
     },
     {
       "key": "六月有声",
-      "name": "📻六月[听书]",
+      "name": "📻六月听书",
       "type": 3,
       "api": "csp_TingBook",
       "searchable": 1,
@@ -6059,7 +6059,7 @@
     },
     {
       "key": "堇夏有声",
-      "name": "🎙️堇夏[听书]",
+      "name": "🎙️堇夏听书",
       "type": 3,
       "api": "csp_TingBookJinXia",
       "searchable": 1,
@@ -6074,7 +6074,7 @@
     },
     {
       "key": "世界听书",
-      "name": "📖世界[听书]",
+      "name": "📖世界听书",
       "type": 3,
       "api": "csp_TingShijie",
       "style": {
@@ -6085,7 +6085,7 @@
     },
     {
       "key": "博看听书",
-      "name": "🗣️博看[听书]",
+      "name": "🗣️博看听书",
       "type": 3,
       "api": "csp_Bookan",
       "searchable": 1,
@@ -6099,7 +6099,7 @@
     },
     {
       "key": "悦听吧",
-      "name": "🎧悦听吧[听书]",
+      "name": "🎧悦听吧听书",
       "type": 3,
       "api": "csp_YueTingBa",
       "searchable": 1,
@@ -6112,7 +6112,7 @@
     },
     {
       "key": "曼波动漫",
-      "name": "🎌曼波[动漫]",
+      "name": "🎌曼波动漫",
       "type": 3,
       "api": "csp_AppGet",
       "searchable": 1,
@@ -6127,7 +6127,7 @@
     },
     {
       "key": "魔都",
-      "name": "🐱魔都[动漫]",
+      "name": "🐱魔都动漫",
       "type": 3,
       "api": "csp_MoDu",
       "searchable": 1,
@@ -6138,7 +6138,7 @@
     },
     {
       "key": "喵呜",
-      "name": "😺喵呜[动漫]",
+      "name": "😺喵呜动漫",
       "type": 3,
       "api": "csp_MiaoWu",
       "searchable": 1,
@@ -6149,7 +6149,7 @@
     },
     {
       "key": "儿歌多多",
-      "name": "🌈儿歌[儿童]",
+      "name": "🌈儿歌儿童",
       "type": 3,
       "api": "csp_ChildrenDuoDuo",
       "searchable": 1,
@@ -6163,7 +6163,7 @@
     },
     {
       "key": "兔小贝",
-      "name": "🧸兔小贝[儿童]",
+      "name": "🧸兔小贝儿童",
       "type": 3,
       "api": "csp_TuXiaoBei",
       "searchable": 1,
@@ -6177,7 +6177,7 @@
     },
     {
       "key": "童趣",
-      "name": "🧸童趣[儿童]",
+      "name": "🧸童趣儿童",
       "type": 3,
       "api": "csp_TongQu",
       "searchable": 1,
@@ -6191,7 +6191,7 @@
     },
     {
       "key": "贝乐虎",
-      "name": "🌈乐虎[儿童]",
+      "name": "🌈乐虎儿童",
       "type": 3,
       "api": "csp_BeiLeHu",
       "searchable": 0,
@@ -6202,7 +6202,7 @@
     },
     {
       "key": "戏曲多多",
-      "name": "🎭多多[体育]",
+      "name": "🎭多多体育",
       "type": 3,
       "api": "csp_AppLY",
       "style": {
@@ -6213,7 +6213,7 @@
     },
     {
       "key": "戏曲梨园",
-      "name": "🎪梨园[体育]",
+      "name": "🎪梨园体育",
       "type": 3,
       "api": "csp_MusicLiYuan",
       "searchable": 1,
@@ -6227,7 +6227,7 @@
     },
     {
       "key": "急救教学",
-      "name": "🌟急救[体育]",
+      "name": "🌟急救体育",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -6242,7 +6242,7 @@
     },
     {
       "key": "养生堂",
-      "name": "⭐养生[体育]",
+      "name": "⭐养生体育",
       "type": 3,
       "api": "csp_Yst",
       "searchable": 1,
@@ -6255,7 +6255,7 @@
     },
     {
       "key": "88看球",
-      "name": "🏈88[体育]",
+      "name": "🏈88体育",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 0,
@@ -6268,7 +6268,7 @@
     },
     {
       "key": "摔角",
-      "name": "🏈摔角[体育]",
+      "name": "🏈摔角体育",
       "type": 3,
       "api": "csp_ShuaiJiao",
       "searchable": 1,
@@ -6281,7 +6281,7 @@
     },
     {
       "key": "球通体育",
-      "name": "🏈球通[体育]",
+      "name": "🏈球通体育",
       "type": 3,
       "api": "csp_QiutongTY",
       "searchable": 0,
@@ -6293,7 +6293,7 @@
     },
     {
       "key": "糖豆",
-      "name": "🌟糖豆[体育]",
+      "name": "🌟糖豆体育",
       "type": 3,
       "api": "csp_TangDou",
       "searchable": 1,
@@ -6308,7 +6308,7 @@
     },
     {
       "key": "哔哩视频",
-      "name": "📺视频[哔哩]",
+      "name": "📺视频哔哩",
       "type": 3,
       "api": "csp_BiliYS",
       "searchable": 1,
@@ -6323,7 +6323,7 @@
     },
     {
       "key": "抖音短视频",
-      "name": "📱抖短[短视频]",
+      "name": "📱抖短短视频",
       "type": 3,
       "api": "csp_Douyin",
       "searchable": 1,
@@ -6341,7 +6341,7 @@
     },
     {
       "key": "聚合直播",
-      "name": "📡聚合[直播]",
+      "name": "📡聚合直播",
       "type": 3,
       "api": "csp_ALLLive",
       "searchable": 1,
@@ -6356,7 +6356,7 @@
     },
     {
       "key": "手快点",
-      "name": "⚡ 手快点[短视频]",
+      "name": "⚡ 手快点短视频",
       "type": 3,
       "api": "csp_Ks",
       "searchable": 0,
@@ -6369,7 +6369,7 @@
     },
     {
       "key": "小姐姐",
-      "name": "💃 小姐姐[短视频]",
+      "name": "💃 小姐姐短视频",
       "type": 3,
       "api": "csp_Xjj",
       "searchable": 1,
@@ -6384,7 +6384,7 @@
     },
     {
       "key": "YouTube",
-      "name": "🌍管管[出国]",
+      "name": "🌍管管出国",
       "type": 3,
       "api": "csp_Youtube",
       "ext": "{\"hls_proxy\":true,\"json\":\"https://jk.catvod.site/jk/t4/youtube_home.json\"}",
@@ -6400,7 +6400,7 @@
     },
     {
       "key": "YouTube直播",
-      "name": "📡管直[出国]",
+      "name": "📡管直出国",
       "type": 3,
       "api": "csp_YoutubeLive",
       "ext": "{\"hls_proxy\":true}",
@@ -6416,7 +6416,7 @@
     },
     {
       "key": "哔哩合集",
-      "name": "💙合集[哔哩]",
+      "name": "💙合集哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -6434,7 +6434,7 @@
     },
     {
       "key": "哔哩哔哩演唱会",
-      "name": "💙演唱会[哔哩]",
+      "name": "💙演唱会哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -6452,7 +6452,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "💙小学[哔哩]",
+      "name": "💙小学哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -6470,7 +6470,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📺初中[哔哩]",
+      "name": "📺初中哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -6488,7 +6488,7 @@
     },
     {
       "key": "高中课堂",
-      "name": "▶️ 高中[哔哩]",
+      "name": "▶️ 高中哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -6506,7 +6506,7 @@
     },
     {
       "key": "古哥",
-      "name": "🌟古哥[搜索]",
+      "name": "🌟古哥搜索",
       "type": 3,
       "api": "csp_GugeSo",
       "searchable": 1,
@@ -6517,7 +6517,7 @@
     },
     {
       "key": "FishPs",
-      "name": "🐟鱼鱼[搜索]",
+      "name": "🐟鱼鱼搜索",
       "type": 3,
       "api": "csp_FishPs",
       "searchable": 1,
@@ -6528,7 +6528,7 @@
     },
     {
       "key": "鬼鬼",
-      "name": "⭐鬼鬼[搜索]",
+      "name": "⭐鬼鬼搜索",
       "type": 3,
       "api": "csp_GuiGui",
       "searchable": 1,
@@ -6539,7 +6539,7 @@
     },
     {
       "key": "趣盘",
-      "name": "🎨趣盘[搜索]",
+      "name": "🎨趣盘搜索",
       "type": 3,
       "api": "csp_QuPanSo",
       "searchable": 1,
@@ -6550,7 +6550,7 @@
     },
     {
       "key": "海音",
-      "name": "🎠海音[搜索]",
+      "name": "🎠海音搜索",
       "type": 3,
       "api": "csp_SoAiHaiYin",
       "searchable": 1,
@@ -6566,7 +6566,7 @@
     },
     {
       "key": "九七",
-      "name": "🔍九七[搜索]",
+      "name": "🔍九七搜索",
       "type": 3,
       "api": "csp_SoAiPanSoo",
       "searchable": 1,
@@ -6582,7 +6582,7 @@
     },
     {
       "key": "趣盘社",
-      "name": "🎯趣盘社[搜索]",
+      "name": "🎯趣盘社搜索",
       "type": 3,
       "api": "csp_SoAiQuPanShe",
       "searchable": 1,
@@ -6598,7 +6598,7 @@
     },
     {
       "key": "爱盘",
-      "name": "💗爱盘[搜索]",
+      "name": "💗爱盘搜索",
       "type": 3,
       "api": "csp_SoAiAiPanSo",
       "searchable": 1,
@@ -6614,7 +6614,7 @@
     },
     {
       "key": "legado_novel",
-      "name": "📚整合[看书]",
+      "name": "📚整合看书",
       "type": 3,
       "api": "csp_LegadoSpider",
       "searchable": 1,
@@ -6629,7 +6629,7 @@
     },
     {
       "key": "阅读助手",
-      "name": "🐱猫猫[看书]",
+      "name": "🐱猫猫看书",
       "type": 3,
       "api": "csp_ReaderHelper",
       "searchable": 1,
@@ -6644,7 +6644,7 @@
     },
     {
       "key": "push_agent",
-      "name": "💌推送[配置]",
+      "name": "💌推送配置",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -6655,7 +6655,7 @@
     },
     {
       "key": "WpLib",
-      "name": "🖼️图库[配置]",
+      "name": "🖼️图库配置",
       "type": 3,
       "api": "csp_WpLib",
       "searchable": 0,
