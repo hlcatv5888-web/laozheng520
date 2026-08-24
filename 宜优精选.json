@@ -8737,7 +8737,20 @@
             "url": "https://jx.hls.one/?url="
         }
     ],
-    "flags": [],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "wasu",
+        "bipyyili",
+        "renrenmi"
+    ],
     "ijk": [
         {
             "group": "软解码",
